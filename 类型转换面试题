@@ -1,0 +1,5 @@
+public class SimpleDemo05{	
+	public static void main(String args[]){	// 主方法
+		System.out.println(1l + 11) ;//注意区别，结果为12
+	}
+};
