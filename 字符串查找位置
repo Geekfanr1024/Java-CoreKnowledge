@@ -1,0 +1,10 @@
+public class StringAPIDemo09{
+	public static void main(String args[]){
+		String str = "hello world" ;
+		System.out.println(str.indexOf("hello")) ;
+		System.out.println(str.indexOf("java")) ;
+		if(str.indexOf("java")!=-1){
+			System.out.println("查找到了所需要的内容。") ;
+		}
+	}
+};
