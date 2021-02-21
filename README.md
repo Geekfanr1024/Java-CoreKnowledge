@@ -3,10 +3,9 @@
 Introduction to Java Programming
 Java SE 
 ------
-
+<br /> 
 	01Java基础部分重要知识(一)
 	Java的发展历史、基本操作、类的命名、数据类型划分、基本控制
-
 <br />  
 	02Java基础部分重要知识(二)
 	数据类型划分、基本控制、方法、数组、新特性对数组的支持
